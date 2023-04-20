@@ -3,7 +3,7 @@
 ##Student Management App:
 
 1. Rohan Chaulagain
-2. Priyankja Bhandari
+2. Priyanka Bhandari
 3. Sneha Singh
 4. Abhishek Chaudhary
 5. Rangeen TwiTwi  
