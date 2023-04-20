@@ -1,7 +1,8 @@
-#F-Group C33B
+# F-Group C33B:
 
-##Student Management App:
-
+## Student Management App:
+ 
+ # Members: 
 1. Rohan Chaulagain
 2. Priyanka Bhandari
 3. Sneha Singh
